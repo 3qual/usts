@@ -3,10 +3,10 @@
 ### Based on UDP network protocol, C# and Python Programming Languages and ability to work under Docker Containers 
 
 ##### Dependencies
-C#:
-  NuGet:
+C#:\n
+  NuGet:\n
     MongoDB.Driver
-    MongoDB.Bson
+    MongoDB.Bson\n
   In code:
     using System;
     using System.Net.Sockets;
