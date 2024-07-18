@@ -1,9 +1,9 @@
 # USTS
 ## UDP String Transmission System 
 ### Based on UDP network protocol, C# and Python Programming Languages and ability to work under Docker Containers 
-
-
-#### Dependencies
+  
+  
+#### Dependencies:
 ##### C#:
 ######   NuGet:
     MongoDB.Driver
