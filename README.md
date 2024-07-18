@@ -1,2 +1,2 @@
-# usts
-UDP String Transmission System
+# USTS
+## UDP String Transmission System
