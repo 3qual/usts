@@ -2,6 +2,7 @@ import socket
 import uuid
 import time
 
+
 def send_message(message, server_address):
     message_id = str(uuid.uuid4())
     message += "<EOF>"

@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{2F95E85E-EA32-4264-AC36-89FB72759B3A}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.USTS__Server PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="USTS_Server/Program.cs">
     <Files>
-      <File FileName="USTS_Server/Program.cs" Line="18" Column="6" />
+      <File FileName="USTS_Server/Program.cs" Line="15" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,11 +19,7 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.USTS__Server PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
