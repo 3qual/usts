@@ -5,7 +5,7 @@
   
 #### Used dependencies:
 ##### C#:
-######   *Need for installation!* NuGet:
+######   **!Need for installation!** NuGet:
     MongoDB.Driver
     MongoDB.Bson
 ######   In code:
