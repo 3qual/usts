@@ -44,6 +44,8 @@ def send_message(message, server_address):
         sock.close()
 
 if __name__ == "__main__":
-    server_address = ("172.100.8.10", 12345)
+    #ip = "172.100.8.10"
+    ip = input("Enter server IP: ")
+    server_address = (ip, 12345)
     message = "Hello World!"
     send_message(message, server_address)
