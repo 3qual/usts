@@ -46,6 +46,7 @@ def send_message(message, server_address):
 
 if __name__ == "__main__":
     ip = input("Enter server IP: ")
-    server_address = (ip, 12345)
+    port = 5367
+    server_address = (ip, port)
     message = input("Enter your message: ")
     send_message(message, server_address)
