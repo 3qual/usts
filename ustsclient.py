@@ -50,6 +50,6 @@ if __name__ == "__main__":
     server_address = (ip, port)
     print("Enter exit if you want to close the programm")
     message = ""
-    while True:
+    while message != "exit":
         message = input("Enter your message: ")
         send_message(message, server_address)
