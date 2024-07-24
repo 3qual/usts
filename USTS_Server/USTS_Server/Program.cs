@@ -83,7 +83,7 @@ namespace USTS_server // Defining namespace for logical organization of code
         // Asynchronous method for listening to UDP messages
         public static async Task ListenAsync()
         {
-            int PORT = 12345; // Port for listening
+            int PORT = 5367; // Port for listening
             if (!IsPortAvailable(PORT)) // Checking port availability
             {
                 LogMessage("Port already occupied!"); // Logging and outputting message about occupied port
