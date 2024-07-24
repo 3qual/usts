@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "USTS_Client/1.0.0": {
+        "runtime": {
+          "USTS_Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "USTS_Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

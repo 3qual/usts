@@ -1,0 +1,15 @@
+/Users/equal/Desktop/USTS_Client/bin/Debug/net7.0/USTS_Client
+/Users/equal/Desktop/USTS_Client/bin/Debug/net7.0/USTS_Client.deps.json
+/Users/equal/Desktop/USTS_Client/bin/Debug/net7.0/USTS_Client.runtimeconfig.json
+/Users/equal/Desktop/USTS_Client/bin/Debug/net7.0/USTS_Client.dll
+/Users/equal/Desktop/USTS_Client/bin/Debug/net7.0/USTS_Client.pdb
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.csproj.AssemblyReference.cache
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.AssemblyInfoInputs.cache
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.AssemblyInfo.cs
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.csproj.CoreCompileInputs.cache
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.dll
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/refint/USTS_Client.dll
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.pdb
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/USTS_Client.genruntimeconfig.cache
+/Users/equal/Desktop/USTS_Client/obj/Debug/net7.0/ref/USTS_Client.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USTS_Client", "USTS_Client.csproj", "{4BBC7C33-3A74-43FC-B738-AFE4C9E76EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BBC7C33-3A74-43FC-B738-AFE4C9E76EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBC7C33-3A74-43FC-B738-AFE4C9E76EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBC7C33-3A74-43FC-B738-AFE4C9E76EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBC7C33-3A74-43FC-B738-AFE4C9E76EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D9AF3D-0B31-43DC-88CE-1E83FE4BFDC8}
+	EndGlobalSection
+EndGlobal
