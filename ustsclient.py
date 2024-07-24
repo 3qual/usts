@@ -48,5 +48,8 @@ if __name__ == "__main__":
     ip = input("Enter server IP: ")
     port = 5367
     server_address = (ip, port)
-    message = input("Enter your message: ")
-    send_message(message, server_address)
+    print("Enter exit if you want to close the programm")
+    message = ""
+    while True:
+        message = input("Enter your message: ")
+        send_message(message, server_address)
