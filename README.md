@@ -1,6 +1,6 @@
 # USTS
 ## UDP String Transmission System 
-### Based on the UDP network protocol, using C# and Python programming languages, with support for MongoDB and the ability to work in Docker containers.
+### Based on the UDP network protocol, using C# and Python programming languages, with support for MongoDB storage and the ability to work in Docker containers. (UDPTCP weird thing for fun basically)
   
   
 #### Used dependencies:
